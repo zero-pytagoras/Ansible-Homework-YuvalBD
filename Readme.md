@@ -7,5 +7,5 @@ Pre-requisitions
 Ansible installation
 
 
-Contributers:
+Contributer:
 Yuval Ben David
