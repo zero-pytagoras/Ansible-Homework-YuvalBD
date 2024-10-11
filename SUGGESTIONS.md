@@ -1,7 +1,7 @@
 ## Suggestions
 
 ### Project
-Lot is missing...
+A lot is missing...
 
 ### README
 - Missing files
